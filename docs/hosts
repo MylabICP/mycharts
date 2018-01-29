@@ -1,0 +1,12 @@
+127.0.0.1	localhost
+127.0.1.1	ubuntu
+# The following lines are desirable for IPv6 capable hosts
+::1     localhost ip6-localhost ip6-loopback
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+192.168.153.11 icp-boot-master
+192.168.153.12 icp-proxy
+192.168.153.13 icp-worker1
+192.168.153.14 icp-worker2
+192.168.153.11 mycluster.icp
+
